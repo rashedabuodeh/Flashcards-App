@@ -1,0 +1,55 @@
+[
+  {
+    "id": "math",
+    "title": "Math",
+    "cards": [
+      { "id": "math-1", "front": "7 × 8", "back": "56" },
+      { "id": "math-2", "front": "Square root of 144", "back": "12" },
+      { "id": "math-3", "front": "What is 15% of 200?", "back": "30" },
+      { "id": "math-4", "front": "Sum of the interior angles of a triangle", "back": "180°" },
+      { "id": "math-5", "front": "What is 2⁵?", "back": "32" },
+      { "id": "math-6", "front": "Area of a circle", "back": "πr²" },
+      { "id": "math-7", "front": "Solve: 3x + 5 = 20", "back": "x = 5" },
+      { "id": "math-8", "front": "What is a prime number?", "back": "A whole number greater than 1 that can only be divided by 1 and itself" },
+      { "id": "math-9", "front": "0.75 as a fraction", "back": "3/4" },
+      { "id": "math-10", "front": "Pythagorean theorem", "back": "a² + b² = c²" }
+    ]
+  },
+  {
+    "id": "science",
+    "title": "Science",
+    "cards": [
+      { "id": "sci-1", "front": "Chemical formula of water", "back": "H₂O" },
+      { "id": "sci-2", "front": "Which planet is called the Red Planet?", "back": "Mars" },
+      { "id": "sci-3", "front": "Powerhouse of the cell", "back": "Mitochondria" },
+      { "id": "sci-4", "front": "Approximate speed of light", "back": "About 300,000 km/s" },
+      { "id": "sci-5", "front": "Which gas do plants absorb from the air?", "back": "Carbon dioxide (CO₂)" },
+      { "id": "sci-6", "front": "Boiling point of water at sea level", "back": "100 °C" },
+      { "id": "sci-7", "front": "Hardest natural substance", "back": "Diamond" },
+      { "id": "sci-8", "front": "Force that keeps us on the ground", "back": "Gravity" },
+      { "id": "sci-9", "front": "Chemical symbol for gold", "back": "Au" },
+      { "id": "sci-10", "front": "Largest organ of the human body", "back": "Skin" }
+    ]
+  },
+  {
+    "id": "english",
+    "title": "English",
+    "cards": [
+      { "id": "eng-1", "front": "Synonym of \"happy\"", "back": "Joyful" },
+      { "id": "eng-2", "front": "Antonym of \"ancient\"", "back": "Modern" },
+      { "id": "eng-3", "front": "Past tense of \"go\"", "back": "Went" },
+      { "id": "eng-4", "front": "Plural of \"child\"", "back": "Children" },
+      { "id": "eng-5", "front": "What is a noun?", "back": "A word that names a person, place, thing or idea" },
+      { "id": "eng-6", "front": "Meaning of \"benevolent\"", "back": "Kind and generous" },
+      { "id": "eng-7", "front": "Their / there / they're: \"___ going home.\"", "back": "They're" },
+      { "id": "eng-8", "front": "What is an adjective?", "back": "A word that describes a noun" },
+      { "id": "eng-9", "front": "Opposite of \"generous\"", "back": "Stingy" },
+      { "id": "eng-10", "front": "Past participle of \"write\"", "back": "Written" }
+    ]
+  },
+  {
+    "id": "history",
+    "title": "History",
+    "cards": []
+  }
+]
