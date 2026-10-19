@@ -1,7 +1,7 @@
 export type Card = {
   id: string;
-  front: string;
-  back: string;
+  front: string; // question
+  back: string;  // answer
 };
 
 export type Deck = {
@@ -12,7 +12,7 @@ export type Deck = {
 
 export type SessionResult = {
   deckId: string;
-  known: string[];
-  unknown: string[];
+  known: string[]; // card ids
+  unknown: string[]; // card ids
   finishedAt: number;
 };
